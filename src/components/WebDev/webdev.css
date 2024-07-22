@@ -1,0 +1,20 @@
+.projects {
+    margin: 30px;
+    justify-content: center;
+}
+
+.title {
+    margin-left: 50px;
+}
+
+.card {
+  border: 1px solid hsla(0, 0%, 43%, 0.61);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 1%, 38%);
+  max-width: 250px;
+  padding: 20px;
+  margin-left: 70px;
+  margin-top: 50px;
+  text-align: center;
+  display: inline-block;
+}
